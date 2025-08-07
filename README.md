@@ -1,2 +1,0 @@
-# swagger-usage
-swagger setup
